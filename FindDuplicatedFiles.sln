@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicatedFiles", "FindDuplicatedFiles\FindDuplicatedFiles.csproj", "{C69690BC-82ED-4B84-97D9-CCC9D2009FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicatedFilesCLI", "FindDuplicatedFilesCLI\FindDuplicatedFilesCLI.csproj", "{568BBDB4-D2B4-4020-BD0A-8EFFC6D7D041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69690BC-82ED-4B84-97D9-CCC9D2009FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69690BC-82ED-4B84-97D9-CCC9D2009FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69690BC-82ED-4B84-97D9-CCC9D2009FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69690BC-82ED-4B84-97D9-CCC9D2009FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568BBDB4-D2B4-4020-BD0A-8EFFC6D7D041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568BBDB4-D2B4-4020-BD0A-8EFFC6D7D041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568BBDB4-D2B4-4020-BD0A-8EFFC6D7D041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568BBDB4-D2B4-4020-BD0A-8EFFC6D7D041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
